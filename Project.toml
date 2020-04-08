@@ -1,0 +1,9 @@
+name = "IJuliaBell"
+uuid = "3da9888e-9443-4cad-add1-2f3772a855ed"
+license = "MIT"
+authors = ["Nathan Hunt <neighthan.hunt@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+Base64 = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
